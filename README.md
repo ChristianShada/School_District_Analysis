@@ -30,5 +30,8 @@ Before - % Passing Scores With 9th Grade
 <br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/HEader.PNG><br/>
 <br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/THSwo9th.PNG><br/>
 <br/>                  
-If we are looking at the overall 
-
+If we are looking at the overall scores within the schools. You can see below that the scores changed slightly. We are changing the data ommiting only 300 students or so against nearly 40,000 students. As such, it will not change dramatically.
+Before - Passing Scores With % 9th Grade
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/Overall_Before.PNG><br/>
+After - Passing Scores **Without** % 9th Grade
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/Overall_After.PNG>
