@@ -1,6 +1,8 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
 &emsp;&emsp;&emsp;&emsp;&emsp;This analysis was important as the schools could really dial in a look at specialized data that referenced the different type they were, based on the attributes:<br/>
+
+<br><img align="right" width="300" height="200" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/Data_School.png>
 - School Type
 - Total Students
 - Total Budget
@@ -20,3 +22,13 @@
 - How is the school summary affected<br/>
 &emsp;&emsp;- How does replacing the ninth graders' math and reading scores affect Thomas HS's performance relative to the other schools?<br/>
 &emsp;&emsp;When we learned that we had to take away 9th grade data from Thomas High School, it created new data that was no longer valuable as, in order to make it worth wile, we need to manupulate the data to only see 10th, 11th, and 12th grades for the other schools as well. While you can see the difference in the before data vs. the after data, it may look great and that Thomas High School has lept ahead of other "School Types" We are only meausing three grade levels versus four grade levels of the other schools/districts.
+
+Before - % Passing Scores With 9th Grade
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/HEader.PNG><br/>
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/THS_w9th.PNG><br/>
+ After- % Passing Scores **Without** 9th Grade<br/>
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/HEader.PNG><br/>
+<br><img align="left" width="900" height="40" src=https://github.com/ChristianShada/School_District_Analysis/blob/main/Resources/THSwo9th.PNG><br/>
+<br/>                  
+If we are looking at the overall 
+
